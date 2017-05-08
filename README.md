@@ -1,20 +1,7 @@
 # Programming Talks
 
-I watch a lot of talks that I love to share with my friends, fellows and coworkers.
-As I consider all Githubbers my friends (oh yeah!), I decided it's time to share the
-list.
-
-There are talks on programming languages specifics as well as a more general section I call "theory".
-But don't expect to always get theoretical computer science for every talk there;
-most of them are on the architecture and design of software.
-
-I welcome every contribution to the list; for guidelines look [below](#contributing).
-
-**Disclaimer:** I did not give any of the talks on the list and am responsible neither
-for their content nor for their presentation. All links below will direct you to
-external sites (mostly YouTube, really), be aware of that. If you are one of the people
-responsible for the talks or the platform presenting it and want it removed,
-tell me and I'll sort it out with you.
+This branch is just to have some bookkeeping which of this awesome talks
+I've already seen.
 
 ### Names to look out for
 
