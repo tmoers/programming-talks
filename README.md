@@ -522,12 +522,12 @@ approachable than it actually is, and that is a good thing.
 
 #### Software Development
 * [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=csyL9EC0S0c) [01:06:44] by **Thomas Figg**
-* [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) [00:53:31] by **Guy Steele**
+* (!!!!!) ~~[Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) [00:53:31] by **Guy Steele**~~
 * [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4) [00:45:50] by **Joe Armstrong**
 * [Are We There Yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) [01:10:04] by **Rich Hickey**
 * [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) [01:01:26] by **Rich Hickey**
 * [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0) [00:36:54] by **Rich Hickey** (Simple Made Easy revisited)
-* [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) [00:39:49] by **Rich Hickey**
+* (!!!!!) ~~[Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) [00:39:49] by **Rich Hickey**~~
 * [The Value Of Values](http://www.infoq.com/presentations/Value-Values) [00:58:53] by **Rich Hickey**
 * [The Language of the System](https://www.youtube.com/watch?v=ROor6_NGIWU) [01:02:50] by **Rich Hickey**
 * [The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4) [00:32:56] by **Bret Victor**
@@ -538,7 +538,7 @@ approachable than it actually is, and that is a good thing.
 * [I have a good feeling about this - Why tooling is poised to make the jump to hyperspace](https://vimeo.com/76141334) [00:43:15] by **Reginald Braithwaite**
 * [The Not-So-Big Software Design](https://www.youtube.com/watch?v=arsK-CN5YDg) [00:47:31] by **Reginald Braithwaite**
 * [The Future Doesn't Have to Be Incremental](https://www.youtube.com/watch?v=gTAghAJcO1o) [00:43:50] by **Alan Kay**
-* [The S.O.L.I.D. Principles of Agile OO Design](https://www.youtube.com/watch?v=QHnLmvDxGTY) [01:23:35] by **Robert C. Martin** (way more interesting than it sounds)
+* (!!!) ~~[The S.O.L.I.D. Principles of Agile OO Design](https://www.youtube.com/watch?v=QHnLmvDxGTY) [01:23:35] by **Robert C. Martin** (way more interesting than it sounds)~~
 * [Whence Complexity?](https://www.youtube.com/watch?v=l_tULSeO9yg) [00:55:32] by **Michael Nygard**
 * [What does it mean to be Reactive?](https://www.youtube.com/watch?v=sTSQlYX5DU0) [00:46:39] by **Erik Meijer**
 * [Demystifying Docker](https://www.youtube.com/watch?v=GVVtR_hrdKI) [00:29:53] by **Andrew T. Baker**
@@ -553,7 +553,7 @@ approachable than it actually is, and that is a good thing.
 * [Conceptualizing Large Software Systems](https://www.youtube.com/watch?v=2T6Prj82adg) [00:17:17] by **Alan Shreve**
 * [The Error of Our Ways](https://www.youtube.com/watch?v=IiGXq3yY70o) [00:49:44] by **Kevlin Henney**
 * [Small Is Beautiful](https://www.youtube.com/watch?v=B3b4tremI5o) [01:07:02] by **Kevlin Henney**
-* [The programmer](https://www.youtube.com/watch?v=sVTs4_1ts_c) [01:03:10] by **Kevlin Henney**
+* ~~[The programmer](https://www.youtube.com/watch?v=sVTs4_1ts_c) [01:03:10] by **Kevlin Henney**~~
 * [Scalable is Awesome, Literally!](https://www.youtube.com/watch?v=iquZl-CUR_U) [00:43:48] by **Garrett Smith**
 
 #### Debugging
